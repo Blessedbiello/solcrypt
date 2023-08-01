@@ -1,6 +1,7 @@
 import { Dialog, Transition } from '@headlessui/react'
 import { Fragment } from 'react'
 
+
 const Modal = ({ modalOpen, setModalOpen, children }) => {
     const closeModal = () => {
         setModalOpen(false)

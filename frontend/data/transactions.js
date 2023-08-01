@@ -34,7 +34,7 @@ export const transactions = [
             avatar: 'https://ca.slack-edge.com/T8JR01VL4-U02AQ23D15X-63795a2d421c-72',
             verified: false,
         },
-        description: 'Payment for Cash App project',
+        description: 'Payment for Solcrypt project',
         transactionDate: new Date(),
         status: 'Incomplete',
         amount: 123.45,
